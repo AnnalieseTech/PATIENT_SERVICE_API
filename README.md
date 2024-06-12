@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][issues-url] -->
 
 
 <!-- PROJECT LOGO -->
@@ -17,12 +17,12 @@
   <p align="center">
     This is a patient service api that will save and retrieve patient details. 
     <br />
-    <a href="https://github.com/se-2024/PATIENT_SERVICE_API/blob/main/docs/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AnnalieseTech/PATIENT_SERVICE_API/blob/main/docs/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/se-2024/PATIENT_SERVICE_API/issues">Report Bug</a>
+    <a href="https://github.com/AnnalieseTech/PATIENT_SERVICE_API/issues">Report Bug</a>
     ·
-    <a href="https://github.com/se-2024/PATIENT_SERVICE_API/issues">Request Feature</a>
+    <a href="https://github.com/AnnalieseTech/PATIENT_SERVICE_API/issues">Request Feature</a>
   </p>
 </div>
 
@@ -96,8 +96,8 @@ Required software and how to install them.
         > origin  git@github.com:YOUR_USERNAME/PATIENT_SERVICE_API.git (push)
     ```
   4. Specify a new remote upstream repository that will be synced with the fork.
-    ***NOTE***: This will be the original owner - the se-2024/PATIENT_SERVICE_API repo:
-    `git remote add upstream  https://github.com/se-2024/PATIENT_SERVICE_API.git`
+    <!-- ***NOTE***: This will be the original owner - the se-2024/PATIENT_SERVICE_API repo:
+    `git remote add upstream  https://github.com/se-2024/PATIENT_SERVICE_API.git` -->
 
   5. List out the remotes and this time you will have another remote:
     ```sh
@@ -118,8 +118,8 @@ Required software and how to install them.
     ```
     If you have another remote you can delete it. The only other remote you will need will be the upstream to the shared repository.
   2. Specify a new remote upstream repository that will be synced with your repo.
-    ***NOTE***: This will be the original owner - the se-2024/PATIENT_SERVICE_API repo:
-    `git remote add upstream  https://github.com/se-2024/PATIENT_SERVICE_API.git`
+    <!-- ***NOTE***: This will be the original owner - the se-2024/PATIENT_SERVICE_API repo:
+    `git remote add upstream  https://github.com/se-2024/PATIENT_SERVICE_API.git` -->
 
   3. List out the remotes and this time you will have another remote:
     ```sh
